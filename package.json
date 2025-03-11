@@ -1,7 +1,7 @@
 {
   "name": "package.json",
   "private": true,
-  "homepage": "https://github.com/Nandinee-Sharma/ToDoList",
+  "homepage": "https://github.com/Nandinee-Sharma/ToDoList/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {

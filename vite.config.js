@@ -9,5 +9,5 @@ import { defineConfig } from 'vite';
 export default defineConfig({
   plugins: [tailwindcss(),
     react()],
-  base: '/ToDoList/'
+  base: '/ToDoList'
 })
