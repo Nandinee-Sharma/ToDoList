@@ -1,5 +1,4 @@
 # To-Do List Project
-- Overview
 This project is a simple To-Do List application built using React and Vite. It allows users to manage their tasks efficiently with a clean and responsive interface.
 
 # Features
@@ -20,9 +19,9 @@ This project is a simple To-Do List application built using React and Vite. It a
 ![alt text](image.png)
 
 # Usage
-The application allows you to add tasks to your list.
-Tasks can be marked as completed or deleted.
-Data is stored in localStorage(not applicable here), ensuring persistence across sessions.
+- The application allows you to add tasks to your list.
+- Tasks can be marked as completed or deleted.
+- Data is stored in localStorage, ensuring persistence across sessions.
 
 # Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any enhancements or bug fixes.# localStorage: 
